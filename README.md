@@ -4,7 +4,7 @@
   
   AI-powered Next.js application generator that transforms natural language prompts into production-ready code. From concept to deployment, skip the boilerplate and focus on what makes your project unique.
 
-  [Watch Demo 🚀](https://nextly.live) | [X](https://x.com/vedantxn) | [LinkedIn](https://linkedin.com/in/vedantxn)
+  [Watch Demo -comming soon]() | [X](https://x.com/otihnok) | [LinkedIn](https://linkedin.com/in/konhito)
 </div>
 
 
